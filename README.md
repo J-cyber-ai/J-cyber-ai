@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-cyber-ai
-- 👀 I’m interested in Web-Dev & Machine Learning.
-- 🌱 I’m currently learning MongoDB, Django
+- 👀 I’m interested in Web-Dev, iOS Dev & Machine Learning. 
+- 🌱 I’m currently learning MongoDB, Django, Swift.
 - 💞️ I’m looking to collaborate on Some creative projects
 - 📫 How to reach me karanbadlani1@gmail.com :)
 
